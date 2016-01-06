@@ -1,0 +1,1 @@
+maven plugin for the class conflict check
